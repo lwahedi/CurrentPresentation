@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bloody Benefactors</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <!-- This is template for http://remarkjs.com/ by Ole Petter Bang -->
+    <!-- CSS modifcations by J. M. Lilly-->
+      
+    <style type="text/css">
+      body { font-family: 'Georgia';letter-spacing:0.025em;}
+      h1, h2, h3 {
+        font-family: 'Georgia';
+        font-weight: normal;
+      }
+      .remark-slide-content h1 { font-size: 2.4em; color:#606060;font-weight: bold;letter-spacing:0.05em;margin-top:0em}
+      .remark-slide-content h2 { font-size: 1.55em;color:#606060;font-weight: bold;letter-spacing:0.05em;margin-top:0em}
+      .remark-slide-content  h3 { font-size: 1.4em;color:#606060;font-weight: bold;letter-spacing:0.05em;margin-top:0em, margin-bottom:0em}
+      .remark-slide-content p { font-size: 1.2em; margin-top:0em}
+	  .remark-slide-content ul li ul { font-size: 1em; margin-top:0em}
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .remark-fading { z-index: 9; } 
+        
+      /* Thanks to http://www.partage-it.com/animez-vos-presentations-remark-js/  (in French) */
+/*      .remark-slide-container {transition: opacity 0.5s ease-out;opacity: 0;}
+      .remark-visible {transition: opacity 0.5s ease-out;opacity: 1;}
+  */      
+      /* Two-column layout */
+      .left-column {
+        width: 50%;
+        float: left;
+      }
+      .right-column {
+        width: 49%;
+        float: right;
+        padding-top: 0em;
+        margin-top: 0em;
+        text-align: left;
+      }    
+      .footnote {  
+        position:absolute;
+        bottom: 1em;
+        left: 1em;
+        font-size: 0.7em;
+       }
+        
+      /* Some special classes */
+      .title {font-size: 3.3em; color:#606060;font-weight:bold;letter-spacing:0.05em}
+      .subtitle {font-size: 1.4em}
+      .author {font-size: 1.4em; color:#606060;font-weight:bold;letter-spacing:0.02em}  
+      .coauthor {font-size: 1.0em; color:#606060;font-weight:bold;letter-spacing:0.02em}  
+      .institution {font-size: 1.0em;}
+      .date {font-size: 1.0em;font-style: italic}
+    
+      .cite {font-size: 0.8em; color:#33AA99;font-style: italic}
+      .strike {color:salmon;text-decoration:line-through}
+        
+      /*Set color scheme for links.*/    
+      a {text-decoration: none; color: #666666;text-align:center; width: 24%}
+      /*Setting link properties is particular, do not change order below*/   
+      a:visited {color:#666666}
+      a:hover {color:#33AA99}  
+      a:active, a#active {color:#FF9700;} 
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+
+class: left
+<h3 style="margin:0em"> Data</h3>
+<ul style="margin:0em"> 
+<li>Event Data, attacks by militant groups</li>
+<li>Static network data, alliances </li>
+</ul>
+<br>
+<h3 style="margin:0em"> DV</h3>
+<ul style="margin:0em"> 
+<li> Whether an attack used a tactic.</li>
+<li>Several tactical attributes.</li>
+<ul>
+	<li>Ex] used bomb, suicide, used gun, targeted civilians</li></ul>
+<li><strong>Multiple outcomes per event </strong></li>
+	</ul>
+<br>
+<h3 style="margin:0em"> EV</h3>
+<ul style="margin:0em"> 
+<li> Weights matrix A indicating past behavior of allies </li>
+<li> Past behavior of ties. Whether they engaged in the tactic used in attack</li>
+</ul>
+<br>
+<h3 style="margin:0em"> Options</h3>
+<ol style="margin:0em"> 
+	<li>One entry for each event-tactic type</li>
+	<li>One entry for each used event-tactic type</li>
+	<ul><li>Selecting on DV?</li>
+	<li>Asking whether tactics used were learned, rather than whether tactics are contagious, may be more theoretically sound.</li></ul>
+	<li><strong>Categorical Outcome:</strong> One entry per mutually exclusive event-tactic type</li>
+	<ul><li>One entry for weapon, one for target, etc</li>
+	<li> But what about when multiple types used? </li></ul>
+	<li> One entry for each event in multidimensional space, 
+		calculate distance to each partner's past attacks </li>
+		<ul><li>Need to find appropriate distribution for this</li></ul>
+</ol>
+---
+class: two-columns
+# Modeling: Multi-level (1/2)
+
+For the sake of conciseness, below model is for random intercepts, but I 
+will use random slopes as well. 
+.left-column[
+### Model
+$$ \hat{y}_i = \alpha_j + \beta AX_i + \epsilon $$
+
+$$ \alpha_j = \gamma_k + \zeta_j $$
+
+$$ \gamma_k = \lambda_0 + \xi_k $$
+
+### Levels
+
+i: tactic-event
+
+j: event
+
+k: group
+]
+.right-column[
+### Hyper-Priors: 
+$$ \sigma_{\gamma}^2 \sim U(0,100) $$
+
+$$ \sigma_{\alpha}^2 \sim U(0,100) $$
+
+$$ \sigma_{y}^2 \sim U(0,100) $$
+
+$$ \beta \sim N(0,100^2) $$
+
+$$ \lambda_{0} \sim N(0,100^2) $$
+
+$$ \lambda_{0} \sim N(0,100^2) $$
+]
+---
+class: two-columns
+# Modeling: Multi-level (2/2)
+
+For the sake of conciseness, below model is for random intercepts, but I 
+will use random slopes as well. 
+.left-column[
+### Model
+$$ \hat{y}_i = \alpha_j + \beta AX_i + \epsilon $$
+
+$$ \alpha_j = \gamma_k + \zeta_j $$
+
+$$ \gamma_k = \lambda_0 + \xi_k $$
+
+### Likelihood
+
+$$ \mu_{\hat{y}} = \alpha_i + \beta A X_i $$
+
+$$ \hat{y} \sim N(\mu_{\hat{y}}, \sigma_y^2) $$
+
+$$ \bar{y} = E[\hat{y}] \qquad s^2 = E[\hat{y}^2] $$
+]
+.right-column[
+### Priors
+$$ \xi\sim N(0,\sigma_{\gamma}^2) $$
+
+$$ \gamma_k = \lambda_0 + \xi_k $$
+
+$$ \zeta \sim N(0,\sigma_{\alpha}^2) $$
+
+$$ \alpha_j = \gamma_k + \zeta_j $$
+<img class="plain" src="../figures/line.png" style="padding:0;margins:0;margin-bottom:0px; align:left; height: 5px; width:75%">
+
+
+
+$$ P = .5(1+erf(\frac{\hat{y}-\bar{y}}{s^2 \sqrt{2}})) $$
+
+$$ Y \sim B(P) $$
+]
+
+
+---
+class: two-columns
+# Modeling: Multi-level Questions/Issues
+
+
+.left-column[
+### Model
+$$ \hat{y}_i = \alpha_j + \beta AX_i + \epsilon $$
+
+$$ \alpha_j = \gamma_k + \zeta_j $$
+
+$$ \gamma_k = \lambda_0 + \xi_k $$
+
+
+
+]
+.right-column[
+1. Should the Probit transformation use the sample moments:
+	$$ \bar{y} = E[\hat{y}] \qquad s^2 = E[\hat{y}^2] $$
+	 or the priors? \\(\mu_{\hat{y}}\\) \\(\sigma_y^2\\)
+2. This treats each tactic as an independent draw from a normal distribution. 
+This may make sense for different tactical categories, (weapon vs target)
+but not for the same category (explosive and gun) because each tactic
+selected reduces the probability of selecting another. 
+	* Could structure to use single outcome per event/category but:
+		* Sometimes they use more than one (guns and explosives)
+		* Selecting on DV? 
+	
+]
+---
+class: left
+# Modeling: Categorical Outcome
+
+* One line per event/category
+* 2-level model for each category to generate several values of P
+$$ Y \sim Categorical( P_j* ) $$
+$$ P_j^{\ast} = .5(1+erf(\frac{\hat{y_j}-\bar{y_j}}{s^2 \sqrt{2}})) $$
+$$ P_j^{\ast} =\frac{ P_j } {\Sigma P} $$
+
+## Problem: 
+* Probability of using a tactic now depends both on whether a partner has 
+used the tactic in the past, <strong>and</strong> whether the partner has used other tactics. 
+* Sometimes they use more than one tactic from a category (e.g. gun and explosive)
+
+    </textarea>
+    <!-- This is the link to the local copy of Remark -->
+    <script src="../javascript/remark-latest.min.js" type="text/javascript"></script>
+    <!-- See discussion at https://github.com/gnab/remark/issues/222-->
+    <!-- You could alternately use the libraries from remote location -->
+    <!--<script src="https://gnab.github.io/remark/downloads/remark-latest.min.js" type="text/javascript"></script>-->
+      
+    <!-- This is the link to the remote MathJax libraries --> 
+    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML&delayStartupUntil=configured" type="text/javascript"></script> 
+    <!-- If you want to run your presentation offline, you need to download the MathJax -->
+    <!-- libraries, then uncomment the line below and comment out the one above.-->
+    <!--<script src="../javascript/MathJax/MathJax.js?config=TeX-AMS_HTML&delayStartupUntil=configured,local/local" type="text/javascript"></script> -->
+    <!-- Note: see comment at http://stackoverflow.com/questions/19208536/mathjax-not-working-if-loaded-from-local-js-file-or-if-the-source-code-is-includ-->
+      
+    <script type="text/javascript"> 
+      var slideshow = remark.create({navigation: {click: false}, properties: {class: "center, middle"}});
+
+      // Setup MathJax
+      MathJax.Hub.Config({
+          tex2jax: {
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+          }
+      });
+      MathJax.Hub.Queue(function() {
+          $(MathJax.Hub.getAllJax()).map(function(index, elem) {
+              return(elem.SourceElement());
+          }).parent().addClass('has-jax');
+      });
+
+      MathJax.Hub.Configured();
+    </script>
+  </body>
+</html>
