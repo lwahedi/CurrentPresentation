@@ -66,8 +66,8 @@
     <textarea id="source">
 
 
-class: left
-<h3 style="margin:0em"> Data</h3>
+class: left, middle
+<h2 style="margin:0em"> Data</h2>
 <ul style="margin:0em"> 
 <li>Event Data, attacks by militant groups</li>
 <li>Static network data, alliances </li>
@@ -87,8 +87,9 @@ class: left
 <li> Weights matrix A indicating past behavior of allies </li>
 <li> Past behavior of ties. Whether they engaged in the tactic used in attack</li>
 </ul>
-<br>
-<h3 style="margin:0em"> Options</h3>
+---
+class: left, middle
+<h2 style="margin:0em"> Data Options</h2>
 <ol style="margin:0em"> 
 	<li>One entry for each event-tactic type</li>
 	<li>One entry for each used event-tactic type</li>
@@ -104,10 +105,10 @@ class: left
 </ol>
 ---
 class: two-columns
-# Modeling: Multi-level (1/2)
+<h1  style="margin:0em"> Modeling: Multi-level (1/2)</h1>
 
-For the sake of conciseness, below model is for random intercepts, but I 
-will use random slopes as well. 
+<p  style="margin:0em">For the sake of conciseness, below model is for random intercepts, but I 
+will use random slopes as well. </p>
 .left-column[
 ### Model
 $$ \hat{y}_i = \alpha_j + \beta AX_i + \epsilon $$
@@ -118,11 +119,9 @@ $$ \gamma_k = \lambda_0 + \xi_k $$
 
 ### Levels
 
-i: tactic-event
-
-j: event
-
-k: group
+<p style="margin:0em">i: tactic-event</p>
+<p style="margin:0em">j: event</p>
+<p style="margin:0em">k: group</p>
 ]
 .right-column[
 ### Hyper-Priors: 
@@ -140,19 +139,19 @@ $$ \lambda_{0} \sim N(0,100^2) $$
 ]
 ---
 class: two-columns
-# Modeling: Multi-level (2/2)
+<h1 style="margin:0em"> Modeling: Multi-level (2/2)</h1>
 
-For the sake of conciseness, below model is for random intercepts, but I 
-will use random slopes as well. 
+<p  style="margin:0em">For the sake of conciseness, below model is for random intercepts, but I 
+will use random slopes as well. </p>
 .left-column[
-### Model
+<h3 style="margin:0em"> Model</h3>
 $$ \hat{y}_i = \alpha_j + \beta AX_i + \epsilon $$
 
 $$ \alpha_j = \gamma_k + \zeta_j $$
 
 $$ \gamma_k = \lambda_0 + \xi_k $$
 
-### Likelihood
+<h3 style="margin:0em"> Likelihood</h3>
 
 $$ \mu_{\hat{y}} = \alpha_i + \beta A X_i $$
 
@@ -161,7 +160,7 @@ $$ \hat{y} \sim N(\mu_{\hat{y}}, \sigma_y^2) $$
 $$ \bar{y} = E[\hat{y}] \qquad s^2 = E[\hat{y}^2] $$
 ]
 .right-column[
-### Priors
+<h3 style="margin:0em"> Priors</h3>
 $$ \xi\sim N(0,\sigma_{\gamma}^2) $$
 
 $$ \gamma_k = \lambda_0 + \xi_k $$
@@ -191,22 +190,21 @@ $$ \hat{y}_i = \alpha_j + \beta AX_i + \epsilon $$
 $$ \alpha_j = \gamma_k + \zeta_j $$
 
 $$ \gamma_k = \lambda_0 + \xi_k $$
-
-
-
-]
-.right-column[
+<br>
 1. Should the Probit transformation use the sample moments:
 	$$ \bar{y} = E[\hat{y}] \qquad s^2 = E[\hat{y}^2] $$
 	 or the priors? \\(\mu_{\hat{y}}\\) \\(\sigma_y^2\\)
-2. This treats each tactic as an independent draw from a normal distribution. 
+]
+.right-column[
+<ol start=2><li> This treats each tactic as an independent draw from a normal distribution. 
 This may make sense for different tactical categories, (weapon vs target)
 but not for the same category (explosive and gun) because each tactic
-selected reduces the probability of selecting another. 
-	* Could structure to use single outcome per event/category but:
-		* Sometimes they use more than one (guns and explosives)
-		* Selecting on DV? 
-	
+selected reduces the probability of selecting another. </li>
+<ul>
+	<li> Could structure to use single outcome per event/category but:</li>
+	<ul><li>Sometimes they use more than one (guns and explosives)</li>
+		<li> Selecting on DV? </li></ul></ul>
+</ol>
 ]
 ---
 class: left
@@ -218,7 +216,7 @@ $$ Y \sim Categorical( P_j* ) $$
 $$ P_j^{\ast} = .5(1+erf(\frac{\hat{y_j}-\bar{y_j}}{s^2 \sqrt{2}})) $$
 $$ P_j^{\ast} =\frac{ P_j } {\Sigma P} $$
 
-## Problem: 
+<h2 style="margin:0em"> Problem: </h2>
 * Is the probit transformation still the right one? 
 * Probability of using a tactic now depends both on whether a partner has 
 used the tactic in the past, <strong>and</strong> whether the partner has used other tactics. 
