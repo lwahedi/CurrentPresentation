@@ -107,15 +107,16 @@ class: left, middle
 class: two-columns
 <h1  style="margin:0em"> Modeling: Multi-level (1/2)</h1>
 
-<p  style="margin:0em">For the sake of conciseness, below model is for random intercepts, but I 
-will use random slopes as well. </p>
+<p  style="margin:0em">. </p>
 .left-column[
 ### Model
-$$ \hat{y}_i = \alpha_j + \beta AX_i + \epsilon $$
+$$ \hat{y}_i = \alpha_j + c_k + \beta_k AX_i + \phi_k X_i+ t+t^2+t^3+\epsilon $$
 
-$$ \alpha_j = \gamma_k + \zeta_j $$
+$$ \alpha_j = \gamma_0 + \gamma X_g + \eta_j $$
 
-$$ \gamma_k = \lambda_0 + \xi_k $$
+$$ c_j = \nu_0 + \zeta_j $$
+
+$$ y \sim B(\hat{y})$$
 
 ### Levels
 
@@ -124,12 +125,16 @@ $$ \gamma_k = \lambda_0 + \xi_k $$
 <p style="margin:0em">k: group</p>
 ]
 .right-column[
+$$ $$
+$$ $$
 ### Hyper-Priors: 
-$$ \sigma_{\gamma}^2 \sim U(0,100) $$
+$$ \sigma_{\gamma}^2 \sim HalfCauchy(beta=2.5) $$
 
-$$ \sigma_{\alpha}^2 \sim U(0,100) $$
+$$ \sigma_{\alpha}^2 \sim (beta=2.5) $$
 
-$$ \sigma_{y}^2 \sim U(0,100) $$
+$$ \sigma_{c}^2 \sim (beta=2.5) $$
+
+$$ \sigma_{\beta}^2 \sim (beta=2.5) $$
 
 $$ \beta \sim N(0,100^2) $$
 
