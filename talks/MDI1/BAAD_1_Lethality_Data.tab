@@ -1,0 +1,396 @@
+mastertccode3606	group	statespond	cowmastercountry	masterccode	fatalities19982005	OrgAge	ordsize	terrStrong	degree	ContainRelig	ContainEthno	LeftNoReligEthno	PureRelig	PureEthno	ReligEthno	ContainRelig2	ContainEthno2	Islam
+50	"Animal Liberation Front (ALF)"	0	"United States of America"	2	0	30	0	0	1	0	0	0	0	0	0	0	0	0
+89	"Army of God"	0	"United States of America"	2	1	24	0	0	0	1	0	0	1	0	0	1	0	0
+113	"Cambodian Freedom Fighters (CFF)"	0	"United States of America"	2	0	8	0	0	0	0	1	0	0	0	0	0	1	0
+126	"Coalition to Save the Preserves (CSP)"	0	"United States of America"	2	0	6	0	0	0	0	0	0	0	0	0	0	0	0
+153	"Earth Liberation Front (ELF)"	0	"United States of America"	2	0	14	0	0	1	0	0	0	0	0	0	0	0	0
+281	"Macheteros"	0	"United States of America"	2	0	29	0	0	0	0	1	0	0	0	0	0	1	0
+30035	"Maras Salvatruchas"	0	"United States of America"	2	28	21	3	0	0	0	0	0	0	0	0	0	0	0
+9875	"Revolutionary Cells Animal Liberation Brigade"	0	"United States of America"	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+20023	"Comando Jaramillista Morelense 23 de Mayo"	0	"Mexico"	70	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+10042	"Group of Guerilla Combatants of Jose Maria Morelos y Pavon (CGNJMMP)"	0	"Mexico"	70	0	5	0	0	2	0	0	0	0	0	0	0	0	0
+246	"Justice Army of the Defenseless People"	0	"Mexico"	70	0	10	0	0	1	0	0	0	0	0	0	0	0	0
+10043	"Popular Revolutionary Army (Mexico)"	0	"Mexico"	70	4	10	1	0	3	0	0	1	0	0	0	0	0	0
+9871	"Revolutionary Armed Forces of the People (FARP)"	0	"Mexico"	70	0	6	0	0	2	0	0	0	0	0	0	0	0	0
+331	"Night Avengers"	0	"Honduras"	91	1	9	0	0	0	0	0	0	0	0	0	0	0	0
+9827	"People's Liberation Forces (El Salvador)"	0	"El Salvador"	92	0	36	0	0	0	0	0	1	0	0	0	0	0	0
+48	"Andres Castro United Front (FUAC)"	0	"Nicaragua"	93	1	11	1	0	0	0	0	0	0	0	0	0	0	0
+69	"April 19 Movement"	0	"Colombia"	100	0	34	0	0	2	0	0	1	0	0	0	0	0	0
+199	"Guevarista Revolutionary Army (ERG)"	0	"Colombia"	100	0	13	0	1	1	0	0	1	0	0	0	0	0	0
+234	"Jaime Bateman Cayon Group (JBC)"	0	"Colombia"	100	0	17	1	0	2	0	0	1	0	0	0	0	0	0
+317	"National Liberation Army (Colombia)"	1	"Colombia"	100	107	42	2	1	8	0	0	1	0	0	0	0	0	0
+9829	"People's Revolutionary Army (Colombia)"	0	"Colombia"	100	1	11	1	0	1	0	0	1	0	0	0	0	0	0
+9838	"Popular Liberation Army"	0	"Colombia"	100	9	39	1	0	1	0	0	1	0	0	0	0	0	0
+9870	"Revolutionary Armed Forces of Colombia (FARC)"	0	"Colombia"	100	463	42	3	1	6	0	0	1	0	0	0	0	0	0
+9912	"Self-Defense Groups of Cordoba and Uraba (ACCU)"	0	"Colombia"	100	2	12	2	1	2	0	1	0	0	0	0	0	1	0
+9980	"United Self-Defense Forces of Colombia (AUC)"	0	"Colombia"	100	244	9	2	0	2	0	1	0	0	0	0	0	1	0
+20019	"Bolivarian Liberation Forces (FBL)"	0	"Venezuela"	101	0	14	1	0	3	0	0	1	0	0	0	0	0	0
+114	"Carapaica Revolutionary Movement"	0	"Venezuela"	101	0	4	0	0	1	0	0	1	0	0	0	0	0	0
+20020	"EPA (Ejercito del Pueblo en Armas)"	0	"Venezuela"	101	0	4	0	0	2	0	0	0	0	0	0	0	0	0
+267	"Latin American Patriotic Army (EPLA)"	0	"Venezuela"	101	0	5	0	0	1	0	0	1	0	0	0	0	0	0
+285	"Mariano Moreno National Liberation Commando"	0	"Venezuela"	101	0	1	0	0	0	0	0	1	0	0	0	0	0	0
+9961	"Tupamaro Revolutionary Movement - January 23"	0	"Venezuela"	101	0	8	0	0	2	0	0	1	0	0	0	0	0	0
+9979	"United Revolutionary Front"	0	"Venezuela"	101	0	8	0	0	1	0	0	0	0	0	0	0	0	0
+9981	"United Self-Defense Forces of Venezuela (AUV)"	0	"Venezuela"	101	7	4	2	0	2	0	0	0	0	0	0	0	0	0
+83	"Armed Revolutionary Left"	0	"Ecuador"	130	0	2	0	0	0	0	0	1	0	0	0	0	0	0
+156	"Ecuadorian Rebel Force"	0	"Ecuador"	130	0	4	0	0	0	0	0	0	0	0	0	0	0	0
+194	"Group of Popular Combatants (GPC)"	0	"Ecuador"	130	0	12	1	1	2	0	0	1	0	0	0	0	0	0
+9830	"People's Revolutionary Militias"	0	"Ecuador"	130	0	4	0	0	0	0	0	0	0	0	0	0	0	0
+9869	"Revolutionary Armed Corps (CAR)"	0	"Ecuador"	130	0	5	0	0	0	0	0	0	0	0	0	0	0	0
+9991	"White Legion"	0	"Ecuador"	130	0	5	0	0	0	0	0	0	0	0	0	0	0	0
+30029	"Ethnocacerista"	0	"Peru"	135	6	5	0	0	0	0	0	0	0	0	0	0	0	0
+9915	"Shining Path"	0	"Peru"	135	40	39	1	1	0	0	0	1	0	0	0	0	0	0
+9959	"Tupac Amaru Revolutionary Movement"	0	"Peru"	135	0	23	0	0	0	0	0	1	0	0	0	0	0	0
+9948	"The Inevitables"	0	"Bolivia"	145	0	3	0	0	0	0	0	1	0	0	0	0	0	0
+9949	"The National Anti-Corruption Front"	0	"Bolivia"	145	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+306	"Movement of the Revolutionary Left"	1	"Chile"	155	0	41	0	0	1	0	0	1	0	0	0	0	0	0
+20042	"Pueblo Regrupado"	0	"Chile"	155	0	4	0	0	0	0	0	0	0	0	0	0	0	0
+145	"Dario Santillan Command"	0	"Argentina"	160	0	2	0	0	0	0	0	1	0	0	0	0	0	0
+2	"Abu Hafs al-Masri Brigade"	0	"United Kingdom"	200	193	5	0	0	2	1	0	0	1	0	0	1	0	1
+115	"Catholic Reaction Force (CRF)"	0	"United Kingdom"	200	0	5	0	0	0	0	1	0	0	0	0	0	1	0
+139	"Continuity Irish Republican Army (CIRA)"	0	"United Kingdom"	200	1	20	0	0	1	0	1	0	0	0	0	0	1	0
+223	"Irish Republican Army (IRA)"	0	"United Kingdom"	200	2	87	1	0	3	0	1	0	0	0	0	0	1	0
+279	"Loyalist Volunteer Force (LVF)"	0	"United Kingdom"	200	4	10	1	0	3	0	1	0	0	0	0	0	1	0
+9809	"Orange Volunteers (OV)"	0	"United Kingdom"	200	0	34	0	0	3	0	1	0	0	1	0	0	1	0
+9854	"Real Irish Republican Army (RIRA)"	0	"United Kingdom"	200	30	8	1	0	2	0	1	0	0	1	0	0	1	0
+9860	"Red Hand Defenders (RHD)"	0	"United Kingdom"	200	6	8	0	0	4	0	1	0	0	1	0	0	1	0
+9926	"South Londonderry Volunteers (SLV)"	0	"United Kingdom"	200	0	9	0	0	1	0	1	0	0	1	0	0	1	0
+9969	"Ulster Defence Association/Ulster Freedom Fighters"	0	"United Kingdom"	200	2	35	2	0	4	0	1	0	0	1	0	0	1	0
+9970	"Ulster Volunteer Force (UVF)"	0	"United Kingdom"	200	0	40	1	0	3	0	1	0	0	1	0	0	1	0
+222	"Irish National Liberation Army (INLA)"	0	"Ireland"	205	2	32	0	0	1	0	1	0	0	0	0	0	1	0
+135	"Communist Revolutionaries in Europe"	0	"Netherlands"	210	0	7	0	0	0	0	0	0	0	0	0	0	0	0
+5	"Accolta Nazinuale Corsa"	0	"France"	220	0	4	0	0	0	0	1	0	0	0	0	0	1	0
+6	"Action Committee of Winegrowers"	0	"France"	220	0	7	0	0	0	0	0	1	0	0	0	0	0	0
+7	"Action Directe"	0	"France"	220	0	27	0	0	1	0	0	1	0	0	0	0	0	0
+77	"Armata Corsa"	0	"France"	220	0	7	0	0	0	0	1	0	0	0	0	0	1	0
+78	"Armata di Liberazione Naziunale"	0	"France"	220	0	4	0	0	0	0	1	0	0	0	0	0	1	0
+90	"Army of the Corsican People"	0	"France"	220	0	2	0	0	0	0	1	0	0	0	0	0	1	0
+111	"Breton Revolutionary Army (ARB)"	0	"France"	220	1	8	0	0	0	0	1	0	0	0	0	0	1	0
+125	"Clandestini Corsi"	0	"France"	220	0	7	0	0	1	0	0	0	0	0	0	0	0	0
+30028	"Corsican Revolutionary Armed Forces (FARC)"	0	"France"	220	0	14	0	0	1	0	1	0	0	1	0	0	1	0
+176	"Francs Tireurs (Mavericks)"	0	"France"	220	0	15	0	0	0	0	0	1	0	0	0	0	0	0
+187	"Fronte di Liberazione Naziunale di a Corsica (FLNC)"	0	"France"	220	0	30	1	0	3	0	1	0	0	0	0	0	1	0
+188	"Gazteriak"	0	"France"	220	0	12	1	0	1	0	1	0	0	0	0	0	1	0
+220	"Iparretarrak (IK)"	0	"France"	220	0	33	0	0	0	0	1	0	0	0	0	0	1	0
+9866	"Resistenza Corsa"	0	"France"	220	0	4	0	0	1	0	1	0	0	1	0	0	1	0
+9957	"Totally Anti-War Group (ATAG)"	0	"France"	220	0	5	0	0	0	0	0	0	0	0	0	0	0	0
+174	"For a Revolutionary Perspective"	0	"Switzerland"	225	0	5	0	0	0	0	0	0	0	0	0	0	0	0
+180	"Freedom for Mumia Abu-Jamal"	0	"Switzerland"	225	0	7	0	0	0	0	0	0	0	0	0	0	0	0
+20001	"Abu Nayaf al-Afgani"	0	"Spain"	230	0	2	0	0	2	1	0	0	1	0	0	1	0	1
+101	"Basque Fatherland and Freedom (ETA)"	0	"Spain"	230	52	47	1	0	3	0	1	0	0	0	0	0	1	0
+172	"First of October Antifascist Resistance Group (GRAPO)"	0	"Spain"	230	1	31	0	0	3	0	0	1	0	0	0	0	0	0
+9889	"Revolutionary Perspective"	0	"Spain"	230	0	6	0	0	1	0	0	0	0	0	0	0	0	0
+97	"Autonomous Decorators"	0	"Germany"	255	0	5	0	0	0	0	0	1	0	0	0	0	0	0
+20022	"Caucasian Front for the Liberation of Abu Achikob"	0	"Germany"	255	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+20030	"Group Revolutionary Reconstruction"	0	"Germany"	255	0	3	0	0	0	0	0	1	0	0	0	0	0	0
+49	"Angry Brigade"	0	"Italy"	325	1	20	0	0	3	0	0	0	0	0	0	0	0	0
+61	"Anti-Racist Guerrilla Nuclei"	0	"Italy"	325	0	7	0	0	0	0	0	1	0	0	0	0	0	0
+65	"Anti-Zionist Movement"	0	"Italy"	325	0	7	0	0	0	1	0	0	0	0	0	1	0	0
+66	"Anticapitalist Attack Nuclei (NAA)"	0	"Italy"	325	0	5	0	0	0	0	0	1	0	0	0	0	0	0
+127	"Combatant Proletarian Nucleus"	0	"Italy"	325	0	4	0	0	0	0	0	1	0	0	0	0	0	0
+141	"Cooperative of Hand-Made Fire & Related Items"	0	"Italy"	325	0	5	0	0	5	0	0	0	0	0	0	0	0	0
+173	"Five C's"	0	"Italy"	325	0	4	1	0	4	0	0	0	0	0	0	0	0	0
+216	"Informal Anarchist Federation"	0	"Italy"	325	0	3	1	0	4	0	0	0	0	0	0	0	0	0
+219	"International Solidarity"	0	"Italy"	325	0	16	0	0	6	0	0	0	0	0	0	0	0	0
+244	"July 20th Brigade"	0	"Italy"	325	0	4	0	0	5	0	0	0	0	0	0	0	0	0
+9816	"Padanian Armed Separatist Phalanx (FASP)"	0	"Italy"	325	0	8	0	0	0	0	1	0	0	1	0	0	1	0
+9848	"Proletarian Combatant Groups"	0	"Italy"	325	0	2	0	0	1	0	0	1	0	0	0	0	0	0
+9849	"Proletarian Nuclei for Communism"	0	"Italy"	325	0	1	0	0	1	0	0	1	0	0	0	0	0	0
+9857	"Red Brigades"	0	"Italy"	325	2	37	0	0	1	0	0	1	0	0	0	0	0	0
+9879	"Revolutionary Front for Communism"	0	"Italy"	325	0	10	0	0	2	0	0	1	0	0	0	0	0	0
+9881	"Revolutionary Leninist Brigades"	0	"Italy"	325	0	6	0	0	0	0	0	1	0	0	0	0	0	0
+9885	"Revolutionary Offensive Cells"	0	"Italy"	325	0	3	0	0	0	0	0	1	0	0	0	0	0	0
+9890	"Revolutionary Proletarian Initiative Nuclei"	0	"Italy"	325	0	5	0	0	1	0	0	1	0	0	0	0	0	0
+9891	"Revolutionary Proletarian Nucleus"	0	"Italy"	325	0	6	0	0	1	0	0	1	0	0	0	0	0	0
+9908	"Sardinian Autonomy Movement (MAS)"	0	"Italy"	325	0	4	0	0	0	0	1	0	0	1	0	0	1	0
+9945	"Territorial Anti-Imperialist Nuclei"	0	"Italy"	325	0	11	0	0	0	0	0	1	0	0	0	0	0	0
+9987	"Vitalunismo"	0	"Italy"	325	0	7	0	0	0	0	0	0	0	0	0	0	0	0
+34	"Albanian National Army (ANA)"	0	"Macedonia"	343	2	4	1	0	0	0	1	0	0	0	0	0	1	0
+257	"Kosovo Liberation Army (KLA)"	0	"Macedonia"	343	1	14	2	0	0	0	1	0	0	0	0	0	1	0
+280	"Macedonian Revolutionary Organization (VMRO)"	0	"Macedonia"	343	0	5	0	0	0	0	1	0	0	0	0	0	1	0
+540	"06/21/2008"	0	"Greece"	350	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+20010	"Anarchist Attack Teams"	0	"Greece"	350	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+42	"Anarchist Faction"	0	"Greece"	350	0	7	0	0	0	0	0	1	0	0	0	0	0	0
+20011	"Anarchist Faction for Subversion"	0	"Greece"	350	0	8	0	0	0	0	0	0	0	0	0	0	0	0
+43	"Anarchist Liberation Brigade"	0	"Greece"	350	0	5	0	0	2	0	0	1	0	0	0	0	0	0
+44	"Anarchist Street Patrol"	0	"Greece"	350	0	8	0	0	0	0	0	0	0	0	0	0	0	0
+45	"Anarchist Struggle"	0	"Greece"	350	0	6	0	0	1	0	0	0	0	0	0	0	0	0
+46	"Anarchists' Attack Group"	0	"Greece"	350	0	6	0	0	0	0	0	1	0	0	0	0	0	0
+20012	"Anarkhiki Omadha 20 Louli"	0	"Greece"	350	0	4	0	0	0	0	0	0	0	0	0	0	0	0
+56	"Anti-Authority Erotic Cells"	0	"Greece"	350	0	6	0	0	0	0	0	0	0	0	0	0	0	0
+59	"Anti-Mainstream Self Determination Faction"	0	"Greece"	350	0	6	0	0	0	0	0	1	0	0	0	0	0	0
+20013	"Anti-Olympic Flame"	0	"Greece"	350	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+60	"Anti-Power Struggle"	0	"Greece"	350	0	7	0	0	0	0	0	1	0	0	0	0	0	0
+62	"Anti-State Action"	0	"Greece"	350	0	7	0	0	1	0	0	0	0	0	0	0	0	0
+20014	"Anti-State Defense"	0	"Greece"	350	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+63	"Anti-State Nuclei"	0	"Greece"	350	0	6	0	0	0	0	0	1	0	0	0	0	0	0
+96	"Autonomous Cells of Rebel Action"	0	"Greece"	350	0	8	0	0	3	0	0	1	0	0	0	0	0	0
+108	"Black Star"	0	"Greece"	350	0	7	0	0	3	0	0	0	0	0	0	0	0	0
+20018	"Black and Red Brigades"	0	"Greece"	350	0	2	0	0	0	0	0	1	0	0	0	0	0	0
+112	"Burning Path"	0	"Greece"	350	0	4	0	0	1	0	0	0	0	0	0	0	0	0
+118	"Chaotic Attack Front"	0	"Greece"	350	0	4	0	0	0	0	0	1	0	0	0	0	0	0
+121	"Children of Fire"	0	"Greece"	350	0	3	0	0	1	0	0	0	0	0	0	0	0	0
+20024	"Commando Anarchist Group"	0	"Greece"	350	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+137	"Communists Liberation Faction"	0	"Greece"	350	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+138	"Conscientious Arsonists (CA)"	0	"Greece"	350	0	8	0	0	3	0	0	1	0	0	0	0	0	0
+20025	"Consciously Enraged"	0	"Greece"	350	0	3	0	0	1	0	0	1	0	0	0	0	0	0
+159	"Enraged Proletarians"	0	"Greece"	350	0	5	0	0	0	0	0	0	0	0	0	0	0	0
+168	"Fighters for Freedom"	0	"Greece"	350	0	5	0	0	0	0	0	1	0	0	0	0	0	0
+169	"Fighting Ecologist Activism"	0	"Greece"	350	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+170	"Fighting Guerillas of May"	0	"Greece"	350	0	8	0	0	1	0	0	1	0	0	0	0	0	0
+171	"Fires of Hell"	0	"Greece"	350	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+182	"Friendship Society"	0	"Greece"	350	0	7	0	0	0	0	1	0	0	0	0	0	1	0
+20029	"Group for Social Resistance to the State Mechanism"	0	"Greece"	350	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+193	"Group of Carlo Giuliani"	0	"Greece"	350	0	5	0	0	3	0	0	0	0	0	0	0	0	0
+206	"Hawks of Thrace"	0	"Greece"	350	0	7	0	0	1	0	1	0	0	0	0	0	1	0
+20032	"Immediate Action"	0	"Greece"	350	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+20033	"Indomitable Marxists"	0	"Greece"	350	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+256	"Knights of the Torched Bank"	0	"Greece"	350	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+274	"Leftist Nucleus"	0	"Greece"	350	0	8	0	0	0	0	0	1	0	0	0	0	0	0
+290	"05/15/2008"	0	"Greece"	350	0	8	0	0	3	0	0	1	0	0	0	0	0	0
+293	"05/01/1998"	0	"Greece"	350	0	8	0	0	1	0	0	1	0	0	0	0	0	0
+295	"Melting Nuclei"	0	"Greece"	350	0	8	0	0	0	0	0	1	0	0	0	0	0	0
+296	"Midnight Saboteurs"	0	"Greece"	350	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+303	"Movement Against State Arbitrariness"	0	"Greece"	350	0	5	0	0	0	0	0	0	0	0	0	0	0	0
+330	"New Revolutionary Popular Struggle (NELA)"	0	"Greece"	350	0	4	0	0	1	0	0	1	0	0	0	0	0	0
+334	"November's Children"	0	"Greece"	350	0	8	0	0	1	0	0	1	0	0	0	0	0	0
+337	"Nuclei for Promoting Total Catastrophe"	0	"Greece"	350	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+9813	"Overthrown Anarchist Faction"	0	"Greece"	350	0	6	0	0	0	0	0	0	0	0	0	0	0	0
+9814	"Popular Justice"	0	"Greece"	350	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+9840	"Popular Resistance"	0	"Greece"	350	0	4	0	0	1	0	0	1	0	0	0	0	0	0
+9842	"Popular Revolutionary Action"	0	"Greece"	350	0	3	0	0	2	0	0	1	0	0	0	0	0	0
+9843	"Popular Revolutionary Front (LEM)"	0	"Greece"	350	0	7	0	0	0	0	0	1	0	0	0	0	0	0
+9850	"Proletarian Reprisals"	0	"Greece"	350	0	4	0	0	0	0	0	1	0	0	0	0	0	0
+9851	"Proletarian Resistance"	0	"Greece"	350	0	3	0	0	0	0	0	1	0	0	0	0	0	0
+9852	"Proletarian Solidarity"	0	"Greece"	350	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+9861	"Red Line"	0	"Greece"	350	0	7	0	0	0	0	0	0	0	0	0	0	0	0
+9874	"Revolutionary Brigades"	0	"Greece"	350	0	4	0	0	1	0	0	1	0	0	0	0	0	0
+9882	"Revolutionary Liberation Action"	0	"Greece"	350	0	4	0	0	0	0	0	1	0	0	0	0	0	0
+9883	"Revolutionary Memory"	0	"Greece"	350	0	3	0	0	1	0	0	1	0	0	0	0	0	0
+9884	"Revolutionary Nuclei"	0	"Greece"	350	1	32	0	0	2	0	0	1	0	0	0	0	0	0
+9886	"Revolutionary Organization 17 November (RO-N17)"	0	"Greece"	350	1	31	0	0	19	0	0	0	0	0	0	0	0	0
+9893	"Revolutionary Struggle"	0	"Greece"	350	0	10	0	0	2	0	1	0	0	1	0	0	1	0
+9894	"Revolutionary Subversive Faction-Commando Unibomber"	0	"Greece"	350	0	8	0	0	0	0	0	1	0	0	0	0	0	0
+9895	"Revolutionary Torch-Bearing Run"	0	"Greece"	350	0	2	0	0	1	0	0	0	0	0	0	0	0	0
+9898	"Revolutionary Violence Group (RVG)"	0	"Greece"	350	0	5	0	0	0	0	1	0	0	1	0	0	1	0
+9900	"Rigas Fereos"	0	"Greece"	350	0	7	0	0	0	0	0	0	0	0	0	0	0	0
+9922	"Solidarity Gas Canisters"	0	"Greece"	350	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+9921	"Solidarity for Political Prisoners"	0	"Greece"	350	0	4	0	0	1	0	0	1	0	0	0	0	0	0
+9923	"Solidarity with 17N"	0	"Greece"	350	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+20044	"The Committee for Promotion of Intransigence"	0	"Greece"	350	0	3	0	0	1	0	0	0	0	0	0	0	0	0
+9956	"Torrid Winter"	0	"Greece"	350	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+9972	"Uncontrolled Rage"	0	"Greece"	350	0	4	0	0	0	0	0	0	0	0	0	0	0	0
+20096	"Cypriot Nationalist Organization (OKE)"	0	"Cyprus"	352	0	2	0	0	0	0	1	0	0	0	0	0	1	0
+109	"Black Widows"	0	"Russia"	365	52	6	0	0	1	1	1	0	0	0	1	0	0	1
+144	"Dagestan Liberation Army"	0	"Russia"	365	248	7	1	0	0	1	1	0	0	0	1	0	0	1
+307	"Movsar Baryayev Gang"	0	"Russia"	365	162	4	0	0	1	1	1	0	0	0	1	0	0	1
+329	"New Revolutionary Alternative"	0	"Russia"	365	0	7	0	0	0	0	0	0	0	0	0	0	0	0
+9859	"Red Guerrillas"	0	"Russia"	365	0	4	0	0	0	0	0	1	0	0	0	0	0	0
+9901	"Riyad us-Saliheyn Martyrs' Brigade"	0	"Russia"	365	514	4	1	0	4	1	1	0	0	0	1	0	0	1
+20043	"Russian National Bolshevist Party"	0	"Russia"	365	0	13	3	0	0	0	1	0	0	0	0	0	1	0
+9902	"Russian National Unity"	0	"Russia"	365	0	8	2	0	0	1	1	0	0	0	1	0	0	0
+9937	"Sword of Islam"	0	"Russia"	365	0	8	0	0	1	1	1	0	0	0	1	0	0	1
+99	"Bagramyan Battalion"	0	"Georgia"	372	0	8	1	0	0	0	1	0	0	0	0	0	1	0
+189	"Global Intifada"	0	"Sweden"	380	0	4	0	0	0	0	0	1	0	0	0	0	0	0
+9892	"Revolutionary Socialists"	0	"Sweden"	380	0	7	0	0	0	0	0	1	0	0	0	0	0	0
+20002	"Action Group Extreme Beate"	0	"Denmark"	390	0	1	0	0	0	0	0	1	0	0	0	0	0	0
+9936	"Supporters of Horst Ludwig Meyer"	0	"Denmark"	390	0	7	0	0	0	0	0	1	0	0	0	0	0	0
+81	"Armed Forces Revolutionary Council (AFRC)"	0	"Sierra Leone"	451	0	8	2	1	0	0	0	0	0	0	0	0	0	0
+9896	"Revolutionary United Front (RUF)"	1	"Sierra Leone"	451	0	15	1	1	0	0	0	0	0	0	0	0	0	0
+210	"Hisba"	0	"Nigeria"	475	0	5	0	1	0	1	0	0	1	0	0	1	0	1
+20031	"Iduwini Youths"	0	"Nigeria"	475	0	2	1	0	0	0	1	0	0	0	0	0	1	0
+30036	"Odua Peoples' Congress"	0	"Nigeria"	475	0	7	0	0	0	0	1	0	0	1	0	0	1	0
+304	"Movement for Democracy and Justice in Chad (MDJT)"	1	"Chad"	483	1	4	1	1	0	0	0	1	0	0	0	0	0	0
+9846	"Popular Self-Defense Forces (FAP)"	0	"Congo, Democratic Republic of / Zaire"	490	0	13	2	1	0	0	1	0	0	1	0	0	1	0
+278	"Lord's Resistance Army (LRA)"	1	"Uganda"	500	458	14	2	1	0	1	0	0	1	0	0	1	0	0
+314	"National Army for the Liberation of Uganda (NALU)"	0	"Uganda"	500	30	18	1	1	0	0	0	0	0	0	0	0	0	0
+9812	"Oromo Liberation Front (OLF)"	0	"Ethiopia"	530	15	6	0	0	0	0	1	0	0	1	0	0	1	0
+20026	"Eritrean Islamic Jihad Movement (EIJM)"	1	"Eritrea"	531	2	26	0	0	1	1	0	0	1	0	0	1	0	1
+185	"Front for the Liberation of the Cabinda Enclave"	0	"Angola"	540	6	43	2	0	0	0	1	0	0	0	0	0	1	0
+9973	"UNITA"	0	"Angola"	540	270	40	3	1	0	0	0	1	0	0	0	0	0	0
+312	"Muslims Against Global Oppression (MAGO)"	0	"South Africa"	560	1	8	1	0	1	1	0	0	1	0	0	1	0	1
+321	"National Warriors"	0	"South Africa"	560	1	4	0	0	0	0	0	0	0	0	0	0	0	0
+9824	"People Against Gangsterism And Drugs (PAGAD)"	0	"South Africa"	560	0	11	1	0	1	0	0	0	0	0	0	0	0	0
+9951	"Tigers"	0	"Swaziland"	572	1	8	0	0	0	0	0	0	0	0	0	0	0	0
+30037	"Salafia Jihadia"	0	"Morocco"	600	1	9	1	0	2	1	0	0	1	0	0	1	0	1
+82	"Armed Islamic Group"	0	"Algeria"	615	401	14	1	0	4	1	0	0	1	0	0	1	0	1
+9904	"Salafist Group for Call and Combat (GSPC)"	1	"Algeria"	615	8	10	1	0	2	1	0	0	1	0	0	1	0	1
+202	"Harakat al-Shuhada'a al-Islamiyah"	0	"Libya"	620	4	10	0	0	0	1	0	0	1	0	0	1	0	1
+9935	"Sudan People's Liberation Army"	0	"Sudan"	625	4	23	3	1	0	0	1	0	0	1	0	0	1	0
+9971	"Ummah Liberation Army (ULA)"	0	"Sudan"	625	0	7	3	0	0	0	0	0	0	0	0	0	0	0
+20062	"Arbav Martyrs of Khuzestan"	0	"Iran"	630	10	1	0	0	0	0	1	0	0	0	0	0	1	0
+30032	"Jund Allah Organization for the Sunni Mujahideen in Iran"	0	"Iran"	630	1	1	0	0	0	1	0	0	1	0	0	1	0	1
+67	"Apo's Revenge Hawks"	0	"Turkey"	640	0	7	0	0	3	0	1	0	0	0	0	0	1	0
+68	"Apo's Youth Revenge Brigades"	0	"Turkey"	640	0	7	0	0	3	0	1	0	0	0	0	0	1	0
+136	"Communist Workers Movement"	0	"Turkey"	640	0	5	0	0	0	0	0	1	0	0	0	0	0	0
+150	"DHKP-C"	0	"Turkey"	640	15	28	0	0	5	0	0	1	0	0	0	0	0	0
+226	"Islamic Great Eastern Raiders Front"	0	"Turkey"	640	1	31	0	0	1	1	1	0	0	0	1	0	0	1
+261	"Kurdistan Freedom Hawks"	0	"Turkey"	640	5	2	0	0	1	0	1	0	0	0	0	0	1	0
+262	"Kurdistan Workers' Party (PKK)"	1	"Turkey"	640	31	32	2	0	10	0	1	0	0	0	0	0	1	0
+323	"Nationalist Kurdish Revenge Teams"	0	"Turkey"	640	0	7	0	0	3	0	1	0	0	0	0	0	1	0
+9825	"People's Liberation Army of Kurdistan (ARGK)"	1	"Turkey"	640	47	22	2	0	1	0	0	0	0	0	0	0	0	0
+9953	"TKEP/L"	0	"Turkey"	640	1	16	1	0	0	0	0	1	0	0	0	0	0	0
+9954	"TKP/ML-TIKKO"	0	"Turkey"	640	29	34	1	0	2	0	0	1	0	0	0	0	0	0
+9966	"Turkish People's Liberation Front (TPLF)"	0	"Turkey"	640	0	35	0	0	1	0	0	1	0	0	0	0	0	0
+30024	"1920 Revolution Brigades"	0	"Iraq"	645	0	3	0	0	1	1	1	0	0	0	1	0	0	1
+1	"Abu Bakr al-Siddiq Fundamentalist Brigades"	0	"Iraq"	645	0	2	0	0	0	1	0	0	1	0	0	1	0	1
+10108	"Abu al-Abbas"	0	"Iraq"	645	0	2	0	0	1	1	0	0	1	0	0	1	0	1
+20006	"Al-Bara bin Malek Brigades"	0	"Iraq"	645	5	1	0	0	1	1	0	0	1	0	0	1	0	1
+30026	"Ali Bin Abu Talib Jihad Organization"	0	"Iraq"	645	0	1	0	0	0	1	0	0	1	0	0	1	0	1
+51	"Ansar al-Islam"	0	"Iraq"	645	11	5	1	1	4	1	0	0	1	0	0	1	0	1
+52	"Ansar al-Jihad"	0	"Iraq"	645	0	2	0	0	0	1	1	0	0	0	1	0	0	1
+53	"Ansar al-Sunnah Army"	0	"Iraq"	645	168	3	1	0	6	1	0	0	1	0	0	1	0	1
+91	"Army of the Followers of Sunni Islam"	0	"Iraq"	645	3	2	0	0	1	1	1	0	0	0	1	0	0	1
+20009	"Brigades of Imam al-Hassan al-Basri"	0	"Iraq"	645	2	1	0	0	1	1	0	0	1	0	0	1	0	1
+20021	"Brigades of Martyr Ahmed Yassin"	0	"Iraq"	645	4	2	0	0	1	0	0	0	0	0	0	0	0	0
+10103	"Brigades of the Victorious Lion of God"	0	"Iraq"	645	0	2	0	0	1	1	0	0	1	0	0	1	0	1
+152	"Divine Wrath Brigades"	0	"Iraq"	645	0	2	0	0	1	1	1	0	0	0	1	0	0	1
+20034	"Iraqi Revenge Brigades"	0	"Iraq"	645	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+225	"Islamic Army in Iraq"	0	"Iraq"	645	7	2	1	0	4	1	1	0	0	0	1	0	0	1
+228	"Islamic Jihad Brigades"	0	"Iraq"	645	3	1	0	0	1	1	0	0	1	0	0	1	0	1
+231	"Islamic Resistance Brigades"	0	"Iraq"	645	0	2	0	0	0	1	1	0	0	0	1	0	0	1
+20008	"Jaish al-Taifa al-Mansoura"	0	"Iraq"	645	7	3	0	0	4	1	0	0	1	0	0	1	0	1
+20036	"Karbala Brigades"	0	"Iraq"	645	0	2	0	0	0	1	1	0	0	0	1	0	0	1
+282	"Mahdi Army"	1	"Iraq"	645	0	3	2	1	2	1	1	0	0	0	1	0	0	1
+309	"Mujahedin-e-Khalq (MeK)"	0	"Iraq"	645	9	43	1	0	0	0	0	1	0	0	0	0	0	0
+20097	"Mujahideen Shura Council"	0	"Iraq"	645	0	1	0	0	4	1	1	0	0	0	1	0	0	1
+20041	"Protectors of Islam Brigade"	0	"Iraq"	645	0	1	0	0	0	1	0	0	0	0	0	1	0	1
+9907	"Saraya al-Shuhuada al-jihadiyah fi al-Iraq"	0	"Iraq"	645	7	2	1	0	0	1	1	0	0	0	1	0	0	1
+9939	"Takfir wa Hijra"	0	"Iraq"	645	12	26	1	0	3	1	0	0	1	0	0	1	0	1
+9943	"Tawhid and Jihad"	0	"Iraq"	645	191	9	0	0	3	1	1	0	0	0	1	0	0	1
+9947	"The Holders of the Black Banners"	0	"Iraq"	645	0	2	0	0	0	1	1	0	0	0	1	0	0	1
+9983	"Usd Allah"	0	"Iraq"	645	0	2	0	0	1	1	0	0	1	0	0	1	0	1
+30022	"al-Ahwal Brigades"	0	"Iraq"	645	0	1	0	0	2	1	0	0	1	0	0	1	0	1
+16	"al-Faruq Brigades"	0	"Iraq"	645	7	3	2	0	0	1	1	0	0	0	1	0	0	1
+20007	"al-Qaeda Organization in the Land of the Two Rivers"	0	"Iraq"	645	1543	2	2	0	9	1	1	0	0	0	1	0	0	1
+20017	"Battalion of the Martyr Abdullah Azzam"	0	"Egypt"	651	3	2	0	0	1	1	0	0	1	0	0	1	0	1
+158	"Egyptian Islamic Jihad (EIJ)"	0	"Egypt"	651	1	29	1	0	3	1	0	0	1	0	0	1	0	1
+30030	"Islamic Glory Brigades in the Land of the Nile"	0	"Egypt"	651	4	1	0	0	0	1	0	0	1	0	0	1	0	1
+30039	"Tawhid Islamic Brigades"	0	"Egypt"	651	34	2	0	0	0	1	0	0	1	0	0	1	0	1
+19	"al-Gama'a al-Islamiyya (GAI)"	1	"Egypt"	651	4	29	1	0	2	1	0	0	1	0	0	1	0	1
+39	"Amal"	1	"Lebanon"	660	1	31	2	0	0	0	1	0	0	0	0	0	1	0
+54	"Ansar Allah"	0	"Lebanon"	660	0	12	0	0	1	1	0	0	1	0	0	1	0	1
+20015	"Asbat al-Ansar"	0	"Lebanon"	660	7	19	1	0	4	1	0	0	1	0	0	1	0	1
+207	"Hezbollah"	1	"Lebanon"	660	10	24	3	1	4	1	1	0	0	0	1	0	0	1
+30038	"Strugglers for the Unity and Freedom of Greater Syria"	1	"Lebanon"	660	4	1	0	0	0	0	1	0	0	1	0	0	1	0
+9916	"Shurafa al-Urdun"	0	"Jordan"	663	1	5	0	0	0	0	0	0	0	0	0	0	0	0
+30025	"Abu al-Rish Brigades"	0	"Israel"	666	0	13	0	0	2	0	1	0	0	1	0	0	1	0
+20016	"Badr Forces"	0	"Israel"	666	1	5	3	0	2	0	1	0	0	0	0	0	1	0
+30027	"Black Panthers (West Bank/Gaza)"	0	"Israel"	666	0	17	0	0	2	0	1	0	0	1	0	0	1	0
+130	"Committee for the Security of the Highways"	0	"Israel"	666	3	8	0	0	1	1	1	0	0	0	1	0	0	0
+147	"Democratic Front for the Liberation of Palestine (DFLP)"	1	"Israel"	666	7	37	1	0	3	0	1	0	0	0	0	0	1	0
+20027	"Free People of Galillee"	0	"Israel"	666	0	3	0	0	0	1	1	0	0	0	1	0	0	1
+200	"Hamas"	1	"Israel"	666	385	19	3	1	11	1	1	0	0	0	1	0	0	1
+242	"Jenin Martyrs' Brigade"	0	"Israel"	666	17	3	0	0	1	1	1	0	0	0	1	0	0	1
+248	"Kach"	0	"Israel"	666	0	35	0	0	1	1	1	0	0	0	1	0	0	0
+20037	"Knights of the Tempest"	0	"Israel"	666	0	1	0	0	1	0	1	0	0	0	0	0	1	0
+286	"Martyr Abu-Ali Mustafa Brigades"	0	"Israel"	666	0	5	0	0	1	0	1	0	0	0	0	0	1	0
+9819	"Palestinian Islamic Jihad (PIJ)"	1	"Israel"	666	121	29	1	0	5	1	1	0	0	0	1	0	0	1
+9836	"Popular Front for the Liberation of Palestine (PFLP)"	1	"Israel"	666	29	39	1	0	6	0	0	0	0	0	0	0	0	0
+9841	"Popular Resistance Committees"	0	"Israel"	666	0	6	0	0	5	1	1	0	0	0	1	0	0	1
+9867	"Revenge of Hebrew Babies"	0	"Israel"	666	0	4	0	0	0	0	0	0	0	0	0	0	0	0
+9905	"Salah al-Din Battalions"	0	"Israel"	666	3	6	0	0	1	1	1	0	0	0	1	0	0	1
+9941	"Tanzim"	0	"Israel"	666	0	13	0	1	4	0	1	0	0	1	0	0	1	0
+12	"al-Aqsa Martyrs Brigades"	0	"Israel"	666	10	6	0	0	3	0	1	0	0	0	0	0	1	0
+17	"al-Fatah"	1	"Israel"	666	266	49	3	1	8	0	1	0	0	0	0	0	1	0
+31	"al-Quds Brigades"	0	"Israel"	666	0	29	0	0	1	1	1	0	0	0	1	0	0	1
+21	"al-Haramayn Brigades"	0	"Saudi Arabia"	670	0	3	0	0	0	1	0	0	1	0	0	1	0	1
+29	"al-Qaeda in the Arabian Penninsula (AQAP)"	0	"Saudi Arabia"	670	10	2	1	0	1	1	0	0	1	0	0	1	0	1
+8	"Aden Abyan Islamic Army (AAIA)"	0	"Yemen"	679	8	12	0	0	2	1	0	0	1	0	0	1	0	1
+211	"Hizb-I-Islami"	0	"Afghanistan"	700	10	31	1	1	2	1	1	0	0	0	1	0	0	1
+236	"Jaish-ul-Muslimin"	0	"Afghanistan"	700	4	2	0	0	1	1	1	0	0	0	1	0	0	1
+30003	"Jund al-Sham"	0	"Afghanistan"	700	1	7	1	0	2	1	0	0	1	0	0	1	0	1
+311	"Mujahideen Message"	0	"Afghanistan"	700	0	3	0	0	1	1	1	0	0	0	1	0	0	1
+9903	"Saif-ul-Muslimeen"	0	"Afghanistan"	700	0	3	0	0	0	1	1	0	0	0	1	0	0	1
+9940	"Taliban"	1	"Afghanistan"	700	338	12	2	1	5	1	0	0	1	0	0	1	0	1
+9982	"United Tajik Opposition (UTO)"	0	"Tajikistan"	702	1	5	2	0	0	1	0	0	0	0	0	1	0	1
+230	"Islamic Movement of Uzbekistan (IMU)"	0	"Uzbekistan"	704	7	8	1	1	2	1	1	0	0	0	1	0	0	1
+154	"East Turkistan Liberation Organization"	0	"China"	710	2	4	1	0	1	1	1	0	0	0	1	0	0	1
+9984	"Uygur Holy War Organization"	0	"China"	710	2	5	0	0	0	1	1	0	0	0	1	0	0	1
+122	"Chukakuha"	0	"Japan"	740	0	49	2	0	0	0	0	1	0	0	0	0	0	0
+250	"Kakurokyo"	0	"Japan"	740	0	37	0	0	1	0	0	1	0	0	0	0	0	0
+9872	"Revolutionary Army"	0	"Japan"	740	0	6	0	0	1	0	0	0	0	0	0	0	0	0
+10004	"Achik National Volunteer Council (ANVC)"	0	"India"	750	0	11	1	1	3	0	1	0	0	1	0	0	1	0
+20003	"Adivasi Cobra Force (ACF)"	0	"India"	750	1	10	0	0	0	0	1	0	0	0	0	0	1	0
+38	"All Tripura Tiger Force (ATTF)"	0	"India"	750	59	16	1	0	1	0	1	0	0	0	0	0	1	0
+20005	"Babbar Khalsa International (BKI)"	0	"India"	750	1	28	1	0	0	0	1	0	0	0	0	0	1	0
+10123	"Birsa Commando Force (BCF)"	0	"India"	750	0	10	0	0	0	0	1	0	0	0	0	0	1	0
+20004	"Bodo Liberation Tigers (BLT)"	0	"India"	750	1	10	2	0	0	0	1	0	0	0	0	0	1	0
+110	"Borok National Council of Tripura (BNCT)"	0	"India"	750	2	6	1	0	1	1	1	0	0	0	1	0	0	0
+10022	"Communist Party of India-Maoist (CPI-M)"	0	"India"	750	117	2	2	1	4	0	0	1	0	0	0	0	0	0
+209	"Hindu Sena Rashtriya Sangh Party"	0	"India"	750	19	6	0	0	0	0	0	0	0	0	0	0	0	0
+20035	"Islamic Defense Force"	1	"India"	750	0	9	0	0	1	1	0	0	1	0	0	1	0	1
+239	"Janashakti"	0	"India"	750	0	14	1	0	1	0	0	1	0	0	0	0	0	0
+30005	"Jihad Committee"	1	"India"	750	0	20	0	0	1	1	1	0	0	0	1	0	0	1
+30033	"Kanglei Yawol Kanna Lup (KYKL)"	0	"India"	750	0	12	0	0	5	0	1	0	0	0	0	0	1	0
+30034	"Kangleipak Communist Party"	0	"India"	750	0	26	0	0	2	0	1	0	0	0	0	0	1	0
+20038	"Kuki Liberation Army (KLA)"	0	"India"	750	0	9	0	0	0	0	1	0	0	0	0	0	1	0
+284	"Maoist Communist Center (MCC)"	0	"India"	750	24	37	1	1	3	0	0	1	0	0	0	0	0	0
+310	"Mujahideen al-Mansooran"	0	"India"	750	0	4	0	0	0	0	1	0	0	0	0	0	1	0
+315	"National Democratic Front of Bodoland (NDFB)"	0	"India"	750	117	18	2	0	3	0	1	0	0	0	0	0	1	0
+318	"National Liberation Front of Tripura (NLFT)"	0	"India"	750	54	17	2	0	2	0	1	0	0	0	0	0	1	0
+10079	"National Socialist Council of Nagaland-Isak-Muivah (NSCN-IM)"	1	"India"	750	4	18	2	0	7	0	1	0	0	0	0	0	1	0
+9832	"People's War Group (PWG)"	0	"India"	750	112	26	2	1	3	0	0	1	0	0	0	0	0	0
+9909	"Save Kashmir Movement"	0	"India"	750	10	4	0	0	0	0	1	0	0	1	0	0	1	0
+9934	"Students Islamic Movement of India (SIMI)"	1	"India"	750	0	29	3	0	2	1	0	0	1	0	0	1	0	1
+9974	"United Kuki Liberation Front (UKLF)"	0	"India"	750	0	9	1	0	1	0	1	0	0	1	0	0	1	0
+9975	"United Liberation Front of Assam (ULFA)"	1	"India"	750	59	27	2	0	4	0	0	0	0	0	0	0	0	0
+30040	"United National Liberation Front (UNLF)"	0	"India"	750	2	42	2	1	6	0	1	0	0	0	0	0	1	0
+9976	"United People's Democratic Solidarity (UPDS)"	0	"India"	750	25	7	1	0	0	0	1	0	0	1	0	0	1	0
+10000	"Zomi Revolutionary Army (ZRA)"	0	"India"	750	7	29	2	0	1	0	1	0	0	1	0	0	1	0
+24	"al-Madina"	0	"India"	750	0	4	0	0	2	1	1	0	0	0	1	0	0	1
+25	"al-Mansoorain"	0	"India"	750	16	3	0	0	1	1	1	0	0	0	1	0	0	1
+10006	"313"	0	"Pakistan"	770	6	3	2	0	3	1	1	0	0	0	1	0	0	1
+100	"Baloch Liberation Army (BLA)"	0	"Pakistan"	770	0	3	2	0	0	0	1	0	0	0	0	0	1	0
+205	"Harakat ul-Mudjahidin (HuM)"	1	"Pakistan"	770	7	21	1	0	4	1	1	0	0	0	1	0	0	1
+212	"Hizbul Mujahideen (HM)"	0	"Pakistan"	770	4	17	1	1	7	0	1	0	0	0	0	0	1	0
+235	"Jaish-e-Mohammad (JeM)"	0	"Pakistan"	770	49	6	1	0	5	1	1	0	0	0	1	0	0	1
+237	"Jamiat ul-Mujahedin (JuM)"	0	"Pakistan"	770	7	16	1	0	1	1	1	0	0	0	1	0	0	1
+266	"Lashkar-I-Omar"	0	"Pakistan"	770	19	5	1	0	3	1	1	0	0	0	1	0	0	1
+264	"Lashkar-e-Jhangvi (LeJ)"	1	"Pakistan"	770	100	10	1	0	5	1	1	0	0	0	1	0	0	1
+265	"Lashkar-e-Taiba (LeT)"	0	"Pakistan"	770	138	6	1	0	8	1	1	0	0	0	1	0	0	1
+10224	"Muslim United Army"	0	"Pakistan"	770	0	3	0	0	2	1	0	0	1	0	0	1	0	1
+313	"Muttahida Qami Movement (MQM)"	0	"Pakistan"	770	4	5	2	0	0	0	1	0	0	0	0	0	1	0
+11	"al-Aarifeen"	0	"Pakistan"	770	1	4	1	0	3	1	1	0	0	0	1	0	0	1
+13	"al-Badr"	0	"Pakistan"	770	0	35	1	0	2	1	1	0	0	0	1	0	0	1
+22	"al-Intiqami al-Pakistani"	0	"Pakistan"	770	6	4	0	0	0	1	0	0	1	0	0	1	0	1
+27	"al-Nawaz"	0	"Pakistan"	770	2	7	0	0	0	0	0	0	0	0	0	0	0	0
+28	"al-Qaeda"	0	"Pakistan"	770	3505	19	2	1	33	1	0	0	1	0	0	1	0	1
+33	"al-Umar Mujahideen"	0	"Pakistan"	770	0	17	1	0	3	1	1	0	0	0	1	0	0	1
+208	"Hikmatul Zihad"	0	"Bangladesh"	771	19	2	0	0	0	1	0	0	1	0	0	1	0	1
+10192	"Islami Chhatra Shibir (ICS)"	0	"Bangladesh"	771	21	65	2	0	1	1	0	0	1	0	0	1	0	1
+233	"Islamic Shashantantra Andolon (ISA)"	0	"Bangladesh"	771	3	4	2	0	0	1	0	0	1	0	0	1	0	1
+30031	"Jagrata Muslim Janata Bangladesh"	0	"Bangladesh"	771	0	8	0	0	1	1	0	0	1	0	0	1	0	1
+30014	"Jamatul Mujahedin Bangladesh"	0	"Bangladesh"	771	23	1	0	0	2	1	0	0	1	0	0	1	0	1
+9815	"Purbo Banglar Communist Party (PBCP)"	0	"Bangladesh"	771	14	3	1	1	0	0	0	1	0	0	0	0	0	0
+149	"Democratic Karen Buddhist Army (DKBA)"	0	"Myanmar (Burma)"	775	0	4	1	1	0	0	1	0	0	0	0	0	1	0
+20028	"God's Army"	0	"Myanmar (Burma)"	775	10	9	1	0	1	1	1	0	0	0	1	0	0	0
+251	"Kayin National Union (KNU)"	0	"Myanmar (Burma)"	775	27	47	1	1	1	0	1	0	0	0	0	0	1	0
+252	"Kenkoku Giyugun Chosen Seibatsutai"	0	"Myanmar (Burma)"	775	0	3	0	0	0	0	1	0	0	0	0	0	1	0
+9986	"Vigorous Burmese Student Warriors"	0	"Myanmar (Burma)"	775	0	7	0	0	0	0	0	0	0	0	0	0	0	0
+276	"Liberation Tigers of Tamil Eelam (LTTE)"	1	"Sri Lanka"	780	243	30	2	1	0	0	1	0	0	0	0	0	1	0
+9917	"Sihala Urumaya"	0	"Sri Lanka"	780	0	6	2	0	0	0	1	0	0	0	0	0	1	0
+10110	"Akhil Krantikari"	0	"Nepal"	790	0	1	2	0	1	0	0	1	0	0	0	0	0	0
+134	"Communist Party of Nepal-Maoists (CPN-M)"	0	"Nepal"	790	101	10	2	1	4	0	0	1	0	0	0	0	0	0
+102	"Bersatu"	0	"Thailand"	800	1	17	0	0	2	1	1	0	0	0	1	0	0	1
+9822	"Pattani United Liberation Organization (PULO)"	0	"Thailand"	800	7	38	0	0	4	1	1	0	0	0	1	0	0	1
+9933	"Sri Nakharo"	0	"Thailand"	800	2	5	0	0	2	1	1	0	0	0	1	0	0	1
+20046	"Young Liberators of Pattani"	0	"Thailand"	800	0	4	0	0	0	0	1	0	0	0	0	0	1	0
+20045	"Underground Government of the Free Democratic People of Laos"	0	"Laos"	812	0	6	0	0	0	0	1	0	0	0	0	0	1	0
+20000	"Abdurajak Janjalani Brigade (AJB)"	0	"Philippines"	840	0	7	0	0	1	0	0	0	0	0	0	0	0	0
+4	"Abu Sayyaf Group (ASG)"	0	"Philippines"	840	186	15	1	1	4	1	1	0	0	0	1	0	0	1
+36	"Alex Boncayao Brigade (ABB)"	0	"Philippines"	840	0	22	1	0	1	0	0	1	0	0	0	0	0	0
+179	"Free Vietnam Revolutionary Group"	0	"Philippines"	840	0	5	1	0	0	0	0	0	0	0	0	0	0	0
+215	"Indigenous People's Federal Army (IPFA)"	0	"Philippines"	840	0	5	1	0	0	1	1	0	0	0	1	0	0	1
+300	"Moro Islamic Liberation Front (MILF)"	0	"Philippines"	840	103	28	2	1	2	1	1	0	0	0	1	0	0	1
+301	"Moro National Liberation Front (MNLF)"	1	"Philippines"	840	0	34	2	1	2	1	1	0	0	0	1	0	0	1
+327	"New People's Army (NPA)"	1	"Philippines"	840	36	37	3	1	2	0	0	1	0	0	0	0	0	0
+10258	"Rebolusyonaryong Hukbong Bayan (RHB)"	0	"Philippines"	840	2	8	1	0	0	0	0	1	0	0	0	0	0	0
+539	"Anti-Communist Command (KAK)"	0	"Indonesia"	850	0	6	0	0	0	1	0	0	0	0	0	1	0	1
+177	"Free Aceh Movement (GAM)"	0	"Indonesia"	850	58	31	2	0	1	1	1	0	0	0	1	0	0	1
+10169	"Free Papua Movement (OPM)"	1	"Indonesia"	850	0	43	2	1	1	0	1	0	0	0	0	0	1	0
+183	"Front for Defenders of Islam (FPI)"	0	"Indonesia"	850	0	9	2	0	0	1	0	0	1	0	0	1	0	1
+241	"Jemaah Islamiya (JI)"	0	"Indonesia"	850	227	13	1	1	2	1	0	0	1	0	0	1	0	1
+10213	"Laskar Jihad"	1	"Indonesia"	850	14	6	0	1	3	1	1	0	0	0	1	0	0	1
+20039	"Mujahideen KOMPAK"	0	"Indonesia"	850	0	5	0	0	0	1	0	0	1	0	0	1	0	1
+9927	"South Maluku Republic (RMS)"	0	"Indonesia"	850	4	8	2	0	0	0	1	0	0	1	0	0	1	0
