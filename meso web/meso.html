@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Meso</title>
+	<link type="text/css" href="normalize.css" rel="stylesheet">
+	<link type="text/css" href="styles.css" rel="stylesheet">
+	<meta name="title" content="Laila Wahedi">
+	<meta name= "description" content="Personal Website for Laila A. Wahedi, presenting her research and CV">
+	<script type="text/javascript" src="aboutPage.js"></script>
+	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="w3-styles.css">
+</head>
+<body>
+
+<!-- Sidebar -->
+<div class="w3-sidebar w3-bar-block w3-collapse w3-card-2" style="width:200px; @media (max-width:500px){.w3-sidebar.w3-collapse{display:none}.w3-main{margin-left:0!important;margin-right:0!important}}" id="mySidebar">
+ <button class="w3-bar-item w3-button w3-hide-large"
+  onclick="w3_close()">Close &times;</button>
+  <img src='assets/meso_logo.png'
+		 alt="Meso Logo"
+		 height="82"
+		 style="padding:10px 10px 10px 10px;"
+		 >
+  <h3 class="w3-bar-item">Menu</h3>
+  <a href="meso.html" class="w3-bar-item w3-button">About</a>
+  <a href="bios.html" class="w3-bar-item w3-button">Bios</a>
+  <a href="mailto:law98@georgetown.edu" class="w3-bar-item w3-button">Contact</a>
+  </div>
+  
+</div>
+
+<!-- Header -->
+<div class="w3-main" style="margin-left:200px">
+	<div class="w3-deep-blue w3-border-blue">
+	 <button class="w3-button w3-deep-blue w3-xlarge w3-hide-large" onclick="w3_open()" style="float:right">&#9776;</button>
+		<div class="w3-container">
+			
+			  <h1 style="font-size:60px">
+			  <img src='assets/meso_logo.png'
+				 alt="Meso logo"
+				 style="max-height:80px;position:float;padding:20px 0px 0px 10px;"
+				 >
+			  
+			  Meso: Distributed Governance</h1>
+	</div></div>
+<!-- Content -->
+<div class="w3-container" style="max-width:800px">
+	<img src="assets/meso_logo.png" alt="Portrait" height="400" style="float: left; padding:10px">
+	<h2>About Meso</h2>
+	 
+	<p>Meso is a networked governance structure designed to fill the governance gap between international institutions and local actors. Meso allows a central governing body to select priority problems, while facilitating the local implementation of locally-appropriate solutions—without requiring the politicized international agreements necessary in more centralized institutions. This is accomplished through the creation of a global innovation network designed to create knowledge, facilitate its spread, and encourage implementation of solutions to prioritized problems.</p> 
+	
+	<p>The Meso platform will be seeded with data from existing databases with input from grassroots organizers. Algorithms will recommend information and connections to users within the database. Knowledge will be generated and transferred through structured online and in-person meetings, which will build open source design patterns to translate lessons learned to others working on problems with similar local constraints. The platform will be gated by a structured peer review system to ensure diversity of ideas. By connecting local innovators to knowledge, stakeholders, and others working on similar challenges, Meso will encourage the best local solutions for global problems.</p>
+	<h2>Site Under Construction, Check Back Soon For More</h2>
+</div></div>
+
+<script>
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+}
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+}
+</script>
+     
+</body>
+</html>
