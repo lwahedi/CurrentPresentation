@@ -1,0 +1,96 @@
+
+h1{	font-family: Garamond;
+	color: #0e4094;
+   font-size: 75px;
+   padding: 10px;}
+h2{	font-family: Garamond;
+	color: #0e4094;
+   font-size: 60px;
+   padding: 10px;
+   margin: 0px;}
+h3{	font-family: Garamond;
+	color: #0e4094;
+   font-size: 50px;
+   padding: 0px;
+   margin: 0px;}
+h4{
+	font-family: Garamond;
+	color:#0e4094;
+	font-size: 30px;
+	padding: 0px;
+	margin-bottom:0px;
+	margin: 5px;
+}
+header {
+		text-align: left;
+		padding: 20px 20px 20px 10px;
+		background-image: url("Assets/header.png");
+		background-size:100% 100%;
+		background-repeat: no-repeat;
+		max-width:800px;
+		z-index:1;
+}
+header h1{
+	display:inline;
+}
+ul{padding: 0px 10px 5px 10px;}
+li{
+	padding: 0px 10px 5px 10px;
+	border-bottom-style: ridge;
+	border-color:#0e4094;
+	}
+img[src$=".png"]{
+	-ms-interpolation-mode: crisp-edges;	
+}
+.sidenav{
+	background-color: #F0F8FF;
+	position:fixed;
+	margin-top: -30px;
+	padding-top: 40px;
+	z-index:2;
+	overflow-x: hidden;
+	max-width: 200px;
+	height:100%;
+	font-size: 20px;
+	font-family: Garamond;
+	color: #0e4094;
+}
+.sidenav li:hover, offcanvas li:focus{
+	background-color:#B0E0E6;
+	cursor:pointer;
+}
+#hdrs:hover, offcanvas #hdrs:focus{
+	background-color: #F0F8FF;
+	cursor:default;
+}
+.sidenav a{
+	text-decoration:none;
+}
+.contentContainer{
+	margin-left: 210px;
+	color: #0e4094;
+	padding: 10 auto;
+	max-width:800px;
+}
+
+#wahediPic{
+	display:inline;
+	padding:10px;
+}
+
+
+.closebtn{
+	position:absolute;
+	right: 25px;
+	font-size: 36px !important;
+	margin-left: 50px;
+}
+@media(max-width: 500px){
+	.sidenav{padding-top:45px;height:auto; position:static; width:100%;}
+	.sidenav li {font-size: 18px;}
+	.contentContainer{
+		margin:5px;
+		padding: 5px auto;
+	}
+	header h1{display:block; font-size:40px;}
+}
