@@ -223,12 +223,12 @@ class: left
 ```
 import pymc3 as pm
 with pm.Model() as breath_model:
-	#prior on `\(\gamma_i\)'
+	#prior on &#947;_i
 	mu_gi = pm.Flat('gamma_i')
-	#prior on `\(\gamma_bp\)'
+	#prior on &#947;_bp
 	mu_gbp = pm.Flat('gamma_bp')
 	
-	#prior on `\(\sigma^2_{group}\)'
+	#prior on &#963_group
 	#Two parts, trick from pymc3 team to help convergence
 	#One for each group-level. (province, meal tester)
 	sig_grp_fe = pm.HalfCauchy('sig_grp_fe',beta=2.5)
@@ -251,12 +251,12 @@ class: left
 with pm.Model() as breath_model:
 	...
 	
-	#prior on `\(\eta_i\)'
+	#prior on &#951_i
 	mu_ni = pm.Flat('eta_i')
-	#prior on `\(\eta_bp\)'
+	#prior on &#951_bp
 	mu_nbp = pm.Flat('average_effect_blood_pressure')
 	
-	#prior on `\(\sigma^2_{group}\)'
+	#prior on &#963_group`
 	#Two parts, trick from pymc3 team to help convergence
 	#One for each group-level. (province, meal tester)
 	sig_grp_re = pm.HalfCauchy('sig_grp_re',beta=2.5)
@@ -277,7 +277,7 @@ class: left
 ```
 with pm.Model() as breath_model:
 	...
-	#Prior on `\(\beta_{control}\)' 
+	#Prior on &#946_controls 
 	b_control = pm.Normal('b_control',0,sd=100**2,shape=1)
 	
 	y_hat = bi[data.group.values] + \
