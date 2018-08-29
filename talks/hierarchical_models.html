@@ -383,6 +383,45 @@ class: center
 * If the trace is trending up or down at first before leveling out, remove those early samples
 * It should be consistent across each job. 
 
+---
+<!--
+class: left
+# Hierarchical models
+
+`$$P(\mathbf Y) \sim \mathcal{NB}(\beta_{signal} \mathbf X_{signal} + \color{purple}{\boldsymbol \beta_{governorate} \mathbf X_{governorate}} + \color{orange}{\boldsymbol \beta_{month} \mathbf X_{month}},\sigma ^2)$$`
+
+
+
+### Incorporate all group-level information in estimation of this factor
+
+ `$$P(\color{purple}{\boldsymbol\beta_{governorate}}) \sim \mathcal{N}(\gamma_{gov-i} \color{purple}{\mathbf X_{governorate}} + \boldsymbol \gamma_{gov-covariates} \mathbf X_{gov-covariates}, \sigma_{gov-fe}^2)$$`
+ 
+ 
+ `$$P(\color{orange}{\boldsymbol\beta_{month}}) \sim \mathcal{N}(\gamma_{month-i} \color{orange}{\mathbf X_{month}} , \sigma_{month-fe}^2)$$`  -->
+ 
+ 
+---
+class: left
+# Hierarchical models
+
+`$$P(\mathbf Y) \sim \mathcal{NB}(\beta_{covars} \mathbf X_{covars} +  \\ \color{purple}{\boldsymbol \beta_{gov-origin} \mathbf X_{gov-origin}} +
+\\ \color{green}{\boldsymbol \beta_{gov-destination} \mathbf X_{gov-destination}} + \\ \color{orange}{\boldsymbol \beta_{signal-month} \mathbf X_{signal_month}},\sigma ^2)$$`
+
+
+### Incorporate all group-level information in estimation of this factor
+
+`$$P(\color{purple}{\boldsymbol\beta_{gov-origin}}) \sim \mathcal{N}(\gamma_{gov-i} \color{purple}{\mathbf X_{gov-origin}} + \boldsymbol \gamma_{gov-covariates} \mathbf X_{gov-covariates}, \sigma_{gov-fe}^2)$$`
+ 
+`$$P(\color{green}{\boldsymbol\beta_{gov-destination}}) \sim \mathcal{N}(\gamma_{gov-i} \color{green}{\mathbf X_{gov-destination}} + \\ \boldsymbol \gamma_{gov-covariates} \mathbf X_{gov-covariates}+ \\
+\color{cyan}{\gamma_{district-i}} \color{cyan}{\mathbf X_{district}}
+, \sigma_{gov-fe}^2)$$`
+ 
+`$$P(\color{cyan}{\boldsymbol\gamma_{district}}) \sim \mathcal{N}(\eta_{gov-i} \color{cyan}{\mathbf X_{district}} + \boldsymbol \eta_{gov-covariates} \mathbf X_{gov-covariates}, \sigma_{gov-fe}^2)$$`
+ 
+`$$P(\color{orange}{\boldsymbol\beta_{signal-month}}) \sim \mathcal{N}(\gamma_{month-i} \color{orange}{\mathbf X_{signal-month}} , \sigma_{month-fe}^2)$$`  
+ 
+ 
+
     </textarea>
     <!-- This is the link to the local copy of Remark -->
     <script src="../javascript/remark-latest.min.js" type="text/javascript"></script>
